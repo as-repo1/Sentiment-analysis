@@ -39,6 +39,6 @@ To run the notebooks and scripts, make sure to install the necessary dependencie
 
 ## Usage
 
-- clone the repo - ``git clone `` the repo link
+- clone the repo - ``[git clone ](https://github.com/as-repo1/Sentiment-analysis?tab=readme-ov-file)``
 - install the packages - ``pip intstall -r requirements.txt``
 - run the notebooks using jupyter-notebook or any ide of your choice
