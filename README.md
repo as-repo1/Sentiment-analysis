@@ -40,6 +40,6 @@ To run the notebooks and scripts, make sure to install the necessary dependencie
 ## Usage
 - download the csv file and paste it into the folder link - [here](https://www.kaggle.com/datasets/kazanova/sentiment140/data).
 
-- clone the repo - ``https://github.com/as-repo1/Sentiment-analysis?tab=readme-ov-file``
+- clone the repo - ``git clone https://github.com/as-repo1/Sentiment-analysis.git``
 - install the packages - ``pip intstall -r requirements.txt``
 - run the notebooks using jupyter-notebook or any ide of your choice
