@@ -38,6 +38,7 @@ The trained models are saved in the `models/` directory:
 To run the notebooks and scripts, make sure to install the necessary dependencies listed in the `requirements.txt` file.
 
 ## Usage
+- download the csv file and paste it into the folder link - [here](https://www.kaggle.com/datasets/kazanova/sentiment140/data).
 
 - clone the repo - ``[git clone ](https://github.com/as-repo1/Sentiment-analysis?tab=readme-ov-file)``
 - install the packages - ``pip intstall -r requirements.txt``
